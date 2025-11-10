@@ -1,6 +1,3 @@
-
-## ✅ README.md (Copy & Paste on GitHub)
-
 # 🍽️ Data Science Project — Zomato Dataset Analysis
 
 *Insights & Visualizations about restaurants, customers & market trends*
